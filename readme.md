@@ -1,4 +1,4 @@
-#Advanced Vue.js Concepts
+# Advanced Vue.js Concepts
 
 This repo consists of working code examples on how to implement the following using Vue.js
 
