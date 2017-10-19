@@ -28,7 +28,7 @@ export default {
         {name: 'sens carlos', age: 26, status: 0, created_at: '2017-09-04' },
         {name: 'sophia nkom', age: 25, status: 0, created_at: '2017-09-05' },
         {name: 'jo westley', age: 22, status: 1, created_at: '2017-09-16' },
-        {name: 'sam cunt', age: 24, status: 0, created_at: '2017-04-01' },
+        {name: 'sam john', age: 24, status: 0, created_at: '2017-04-01' },
         {name: 'dia dia', age: 27, status: 1, created_at: '2017-05-08' }
       ]
     }
