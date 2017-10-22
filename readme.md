@@ -8,7 +8,7 @@ This repo consists of working code examples on how to implement the following us
 - state management
 - transitions (Enter/Leave)
 
-The write-up to this codebase can be found here [to be updated]
+The write-up to this codebase can be found here [https://blog.logrocket.com/advanced-vue-js-concepts-mixins-custom-directives-filters-transitions-and-state-management-ca6955905156]
 ## Getting Started
 - Clone this repo 
 ```
